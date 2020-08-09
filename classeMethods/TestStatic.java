@@ -17,5 +17,7 @@ public class TestStatic {
 			x= t1.assign();
 			t1.display();
 	}
+	
+	System.out.println("Program COmpleted");
 
 }
